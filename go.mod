@@ -1,4 +1,4 @@
-module github.com/chenyahui/gin-cache
+module github.com/tw7613781/gin-cache
 
 go 1.13
 

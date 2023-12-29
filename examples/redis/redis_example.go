@@ -3,10 +3,10 @@ package main
 import (
 	"time"
 
-	"github.com/chenyahui/gin-cache"
-	"github.com/chenyahui/gin-cache/persist"
 	"github.com/gin-gonic/gin"
 	"github.com/go-redis/redis/v8"
+	cache "github.com/tw7613781/gin-cache"
+	"github.com/tw7613781/gin-cache/persist"
 )
 
 func main() {
